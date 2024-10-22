@@ -1,3 +1,5 @@
-function orz(n){
-  return [][n-1]
+function orzl(){
+  return [];
 }
+
+function orz(n){ return (orzl())[n-1]; };
