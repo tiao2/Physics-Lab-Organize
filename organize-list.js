@@ -12,4 +12,5 @@ var htor='';
 for(a=0, a<orzl().length, a++){
  htor+='<div class="orz"><h3>'+orz(a).name+'</h3><pre>创建者:'+orz(a).createAuthor+'\n创建时间:'+orz(a).createTime+'</pre></div>';
 }
-//document.getElement
+
+document.getElementById("orzl").innerHTML=htor;
