@@ -27,12 +27,23 @@ function orzl(){
     name: "星辉报社",
     createAuthor: "",
     createTime: ""
-  }
-/*加强物理实验室黑洞区基础学科建设计划（强基计划)
-理颜计划
-晚会聊天室
-微风周刊刊社*/
-  ];
+  },{
+    name: "加强物理实验室黑洞区基础学科建设计划(强基计划)",
+    createAuthor: "",
+    createTime: ""
+  },{
+    name: "理颜计划",
+    createAuthor: "",
+    createTime: ""
+  },{
+    name: "晚会聊天室",
+    createAuthor: "",
+    createTime: ""
+  },{
+    name: "微风周刊刊社",
+    createAuthor: "",
+    createTime: ""
+  }];
 }
 
 function orz(n){ return (orzl())[n]; };
