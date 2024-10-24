@@ -1,9 +1,38 @@
 function orzl(){
   return [{
-    "name": "海龟实验室社区委员会",
-    "createAuthor": "未知",
-    "createTime": "未知"
-  }];
+   name: "星尘报社总部",
+   createAuthor: "",
+   createTime: "",
+  },{
+    name: "服务用户协会",
+    createAuthor: "",
+    createTime: ""
+  },{
+    name: "物实之家-解忧咨询室",
+    createAuthor: "",
+    createTime: ""
+  },{
+ name: "物实法理学协会",
+ createAuthor: "",
+ createTime: ""
+  },{
+    name: "互助团",
+    createAuthor: "",
+    createTime: ""
+  },{
+    name: "逐影联盟",
+    createAuthor: "",
+    createTime: ""
+  },{
+    name: "星辉报社",
+    createAuthor: "",
+    createTime: ""
+  }
+/*加强物理实验室黑洞区基础学科建设计划（强基计划)
+理颜计划
+晚会聊天室
+微风周刊刊社*/
+  ];
 }
 
 function orz(n){ return (orzl())[n]; };
