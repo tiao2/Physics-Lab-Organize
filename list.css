@@ -14,3 +14,11 @@
         height: 89%;
         overflow: scroll;
         }
+   #header {
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top: 0%;
+    left: 0%;
+    background-color: #eee;
+   }
