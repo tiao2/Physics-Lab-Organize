@@ -31,9 +31,10 @@
   }
  #search { 
    position: absolute;
-   height: 20%; 
+   height: 50%; 
    width: 30%; 
    background-color: #f6f6f6; 
    top: 20%;
    left: 50%;
+   font-size: 25px;
  }
