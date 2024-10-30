@@ -38,3 +38,12 @@
    left: 50%;
    font-size: 20px;
  }
+#sub {
+   position: absolute;
+   height: 40%; 
+   width: 15%; 
+   background-color: #f6f6f6; 
+   top: 20%;
+   left: 83%;
+   font-size: 20px;
+ } 
