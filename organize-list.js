@@ -54,3 +54,9 @@ for(a=0; a<orzl().length; a++){
 }
 
 document.getElementById("orzl").innerHTML=htor;
+
+function ts(){
+  var a=document.createElement("a");
+  a.href='search.html?orz='+document.getElementById('input').value;
+  a.click();
+}
