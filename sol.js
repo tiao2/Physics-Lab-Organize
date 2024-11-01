@@ -12,4 +12,4 @@ function gqu() {
     return queryParams.orz;
 };
 
-document.getElementById('search').value=(gqu()==undefined)?'':gqu();
+document.getElementById('search').value=(gqu()==undefined)?'':btoa(gqu());
