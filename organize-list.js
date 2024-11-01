@@ -57,11 +57,13 @@ document.getElementById("orzl").innerHTML=htor;
 
 function ts(){
   var a=document.createElement("a");
-  a.href='search.html?orz='+toBase64(document.getElementById('search').value);
+  a.href='search.html?orz='+encodeBase64(document.getElementById('search').value);
   a.click();
 }
-function toBase64(str) {
-    let encoder = new TextEncoder();
-    let encodedString = encoder.encode(str);
-    return btoa(String.fromCharCode.apply(null, encodedString));
+
+
+function encodeBase64(str) {
+    var utf8Str = unescape(encodeURIComponent(str));
+    var base64Str = btoa(utf8Str);
+    return base64Str;
 }
