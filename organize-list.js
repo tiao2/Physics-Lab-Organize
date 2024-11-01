@@ -57,6 +57,6 @@ document.getElementById("orzl").innerHTML=htor;
 
 function ts(){
   var a=document.createElement("a");
-  a.href='search.html?orz='+document.getElementById('search').value;
+  a.href='search.html?orz='+atob(document.getElementById('search').value);
   a.click();
 }
