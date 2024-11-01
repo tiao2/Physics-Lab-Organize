@@ -12,4 +12,10 @@ function gqu() {
     return queryParams.orz;
 };
 
-document.getElementById('search').value=(gqu()==undefined)?'':atob(gqu());
+document.getElementById('search').value=(gqu()==undefined)?'':decodeBase64(gqu());
+ 
+function decodeBase64(base64Str) {
+    var utf8Str = atob(base64Str);
+    var str = decodeURIComponent(escape(utf8Str));
+    return str;
+}
