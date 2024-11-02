@@ -72,8 +72,8 @@ function orz(n){ return (orzl())[n]; };
 
 var htor='';
 for(a=0; a<orzl().length; a++){
-  if(gqu()!=undefined){
-      if(orz(a).name.search(gqu())!=-1){
+  if(gqu()!==undefined){
+      if(orz(a).name.search(decodeBase64(gqu()))!=-1){
  htor+='<div class="orz"><h3>'+orz(a).name+'</h3><pre>创建者:'+orz(a).createAuthor+'\n创建时间:'+orz(a).createTime+'</pre></div>';
       }
   }
