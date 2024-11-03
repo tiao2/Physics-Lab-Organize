@@ -1,8 +1,8 @@
 function orzl(){
   return [{
    name: "星尘报社总部",
-   createAuthor: "iceiceice",
-   createTime: "",
+   createAuthor: "iceiceiceice",
+   createTime: "2022.04.15",
   },{
     name: "服务用户协会",
     createAuthor: "沃尔夫冈",
