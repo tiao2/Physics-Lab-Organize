@@ -1,8 +1,8 @@
 function orzl(){
   return [{
    name: "星尘报社总部",
-   createAuthor: "沃尔夫冈",
-   createTime: "2023.02.03",
+   createAuthor: "iceiceice",
+   createTime: "",
   },{
     name: "服务用户协会",
     createAuthor: "沃尔夫冈",
@@ -13,7 +13,7 @@ function orzl(){
     createTime: "2022.08.09"
   },{
  name: "物实法理学协会",
- createAuthor: "<user=61298987933d333d44bae760>逐影星空</user>",
+ createAuthor: "逐影星空",
  createTime: "2023.02.25"
   },{
     name: "互助团",
@@ -25,8 +25,8 @@ function orzl(){
     createTime: ""
   },{
     name: "星辉报社",
-    createAuthor: "",
-    createTime: ""
+    createAuthor: "沃尔夫冈",
+    createTime: "2023.02.03"
   },{
     name: "加强物理实验室黑洞区基础学科建设计划(强基计划)",
     createAuthor: "",
