@@ -21,8 +21,8 @@ function orzl(){
     createTime: "2023.01.24"
   },{
     name: "逐影联盟",
-    createAuthor: "",
-    createTime: ""
+    createAuthor: "逐影星空",
+    createTime: "2021.10.05"
   },{
     name: "星辉报社",
     createAuthor: "沃尔夫冈",
