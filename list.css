@@ -6,10 +6,9 @@
           overflow-x: hidden;
        }
      #orzl {
-        position: absolute;
+        position: fixed;
         top: 10%;
         left: 0%;
-        border: 1px solid black;
         width: 100%;
         height: 89%;
         overflow: scroll;
@@ -21,7 +20,6 @@
     top: 0%;
     left: 0%;
     background-color: #eee;
-    border: 1px solid black;
    }
   #title {
    position: absolute;
@@ -49,3 +47,15 @@
    color: black;
    border-radius: 5px;
  } 
+  #gn {
+     position: absolute;
+     background-color: #eee;
+     left: -7%;
+     top: 10%;
+     border-radius: 7%;
+     width: 35%;
+     height: 90%;
+     z-index: 1;
+     display: none;
+     border: 1px solid black;
+}
