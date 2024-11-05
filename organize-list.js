@@ -67,3 +67,8 @@ function encodeBase64(str) {
     var base64Str = btoa(utf8Str);
     return base64Str;
 }
+
+function ch(){
+      var a=document.getElementById("gn").style.display;
+      document.getElementById("gn").style.display=(a=='none')?'block':'none';
+   }
