@@ -59,3 +59,13 @@
      display: none;
      border: 1px solid black;
 }
+ #ad {
+     position: absolute;
+     left: 20%;
+     top: 85%;
+     width: 80%;
+     height: 15%;
+     overflow-x: hidden;
+     overflow-y: scroll;
+     z-index: 1;
+      }
