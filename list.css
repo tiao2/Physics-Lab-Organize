@@ -47,7 +47,9 @@
    color: black;
    border-radius: 5px;
  } 
-  #gn {
+    
+   #gn {
+     animation: fr 0.5s ease forwards;
      position: absolute;
      background-color: #eee;
      left: -7%;
@@ -59,7 +61,7 @@
      display: none;
      border: 1px solid black;
 }
- #ad {
+   #ad {
      position: absolute;
      left: 20%;
      top: 85%;
@@ -69,3 +71,14 @@
      overflow-y: scroll;
      z-index: 1;
       }
+
+ @keyframes fr {
+          0% {
+            opacity: 0;
+            left: -35%;
+          }
+          100% {
+            opacity: 1;
+            left: -7%;
+          }
+        }
