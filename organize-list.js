@@ -13,7 +13,7 @@ function orzl(){
     createTime: "2022.08.09"
   },{
  name: "物实法理学协会",
- createAuthor: "逐影星空",
+ createAuthor: "逐影星空(61298987933d333d44bae760)",
  createTime: "2023.02.25"
   },{
     name: "互助团",
@@ -21,7 +21,7 @@ function orzl(){
     createTime: "2023.01.24"
   },{
     name: "逐影联盟",
-    createAuthor: "逐影星空",
+    createAuthor: "逐影星空(61298987933d333d44bae760)",
     createTime: "2021.10.05"
   },{
     name: "星辉报社",
