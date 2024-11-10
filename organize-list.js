@@ -33,7 +33,7 @@ function orzl(){
     createTime: "2022.04.21"
   },{
     name: "理颜计划",
-    createAuthor: "无产阶级编辑",
+    createAuthor: "无产阶级编辑(5b359b24217fdf92082882ab)",
     createTime: "2022.08.07"
   },{
     name: "晚会聊天室",
