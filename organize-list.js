@@ -17,7 +17,7 @@ function orzl(){
  createTime: "2023.02.25"
   },{
     name: "互助团",
-    createAuthor: "钇Yttrium",
+    createAuthor: "钇Yttrium(630b931c8b2d083afd4e7b3b)",
     createTime: "2023.01.24"
   },{
     name: "逐影联盟",
