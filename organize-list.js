@@ -29,7 +29,7 @@ function orzl(){
     createTime: "2023.02.03"
   },{
     name: "加强物理实验室黑洞区基础学科建设计划(强基计划)",
-    createAuthor: "班长大大",
+    createAuthor: "班长大大(5e9faef0b14a4c3623864d89)",
     createTime: "2022.04.21"
   },{
     name: "理颜计划",
