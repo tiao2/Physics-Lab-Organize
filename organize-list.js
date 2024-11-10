@@ -5,7 +5,7 @@ function orzl(){
    createTime: "2022.04.15",
   },{
     name: "服务用户协会",
-    createAuthor: "沃尔夫冈",
+    createAuthor: "沃尔夫冈(5f2e1445ef04fa1c9fff91f7)",
     createTime: "2023.07.11"
   },{
     name: "物实之家-解忧咨询室",
@@ -25,7 +25,7 @@ function orzl(){
     createTime: "2021.10.05"
   },{
     name: "星辉报社",
-    createAuthor: "沃尔夫冈",
+    createAuthor: "沃尔夫冈(5f2e1445ef04fa1c9fff91f7)",
     createTime: "2023.02.03"
   },{
     name: "加强物理实验室黑洞区基础学科建设计划(强基计划)",
