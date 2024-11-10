@@ -41,7 +41,7 @@ function orzl(){
     createTime: "2022.08.30"
   },{
     name: "微风周刊刊社",
-    createAuthor: "眺跳",
+    createAuthor: "眺跳(6260042ff3d2fc0d1926d63c)",
     createTime: "2023.02.14"
   }];
 }
