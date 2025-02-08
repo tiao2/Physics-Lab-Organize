@@ -130,7 +130,7 @@ function orzl(){
         "createAuthor": "北冥薛猫(5e40b1749178a319c6ea5974)",
         "createTime": "2020-02-10 01:27:16.000",
         "targetID": "5ed90d19ef132a000118296f"
-    }]
+    }];
 }
 
 function orz(n){ return (orzl())[n]; };
