@@ -39,7 +39,7 @@ document.getElementById("orzl").innerHTML=htor;
 
 function ts(){
   var a=document.createElement("a");
-  a.href='/tiao2/Physics-Lab-Organize/edit/main/search.html?orz='+encodeBase64(document.getElementById('search').value);
+  a.href='https://tiao2.github.io/Physics-Lab-Organize/search.html?orz='+encodeBase64(document.getElementById('search').value);
   a.click();
 }
 
